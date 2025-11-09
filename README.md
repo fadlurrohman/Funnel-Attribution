@@ -1,4 +1,4 @@
-# Project 4 – Conversion Funnel & Channel Attribution
+# Conversion Funnel & Channel Attribution
 
 This project simulates a typical Agoda booking funnel:
 
